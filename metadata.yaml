@@ -1,0 +1,36 @@
+_repo: Letters-of-Lt.-Col.-George-Brenton-Laurie--13--commanding-1st-Battn.-Royal-Irish-Rifles--Date__24862
+_version: 0.1.0
+alternative_title: "Letters of Lieutenant-Colonel George Brenton Laurie\r\n(commanding\
+  \ 1st Battalion Royal Irish Rifles) Dated November 4th, 1914-March 11th, 1915"
+covers:
+- cover_type: archival
+  image_path: 24862-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Laurie, G. B. (George Brenton)
+    alias: Laurie, George Brenton
+    birthdate: 1867
+    deathdate: 1915
+    gutenberg_agent_id: '26782'
+    url: http://www.gutenberg.org/2009/agents/26782
+  editor:
+    agent_name: Vere-Laurie, Florence
+    gutenberg_agent_id: '26781'
+    url: http://www.gutenberg.org/2009/agents/26781
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'DC'
+title: "Letters of Lt.-Col. George Brenton Laurie\r\n(commanding 1st Battn. Royal\
+  \ Irish Rifles) Dated November 4th, 1914-March 11th, 1915"
+url: http://www.gutenberg.org/ebooks/24862
